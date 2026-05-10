@@ -6,24 +6,27 @@ Client Website Projects
 1. Wellness Website  
 Live Link: https://nextgenwellness.org/  
 Modern responsive WordPress website designed for wellness business.
+![Wellness Website](https://github.dev/samiaRamzan/wordpress-projects/blob/main/Wellness.png)
 
 ---
 
 2. Educational Website  
 Live Link: https://goodshepherdacademynorthtexas.com/  
 Professional school website with clean layout and responsive design.
+![Educational Website](https://raw.githubusercontent.com/samiaRamzan/wordpress-projects/refs/heads/main/Educational%20website.png)
 
 ---
 
-3. Business Website  
-Live Link: https://enviroservices.com.au/  
-Responsive business website focused on user experience and service presentation.
-
----
-
-4. Dental Clinic Website  
+3. Dental Clinic Website  
 Live Link: https://chicagoimplantstudio.com/  
 Modern healthcare website with professional UI and mobile optimization.
+[Clinic Website](https://raw.githubusercontent.com/samiaRamzan/wordpress-projects/refs/heads/main/business%20website.png)
+
+---
+
+4. Business Website  
+Live Link: https://enviroservices.com.au/  
+Responsive business website focused on user experience and service presentation.
 
 ---
 
